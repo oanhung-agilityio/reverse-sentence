@@ -1,0 +1,23 @@
+{
+  "name": "@npmoanhung/reverse-sentence",
+  "version": "1.0.0",
+  "description": "Reverses a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oanhung-agilityio/reverse-sentence.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oanhung-agilityio/reverse-sentence/issues"
+  },
+  "homepage": "https://github.com/oanhung-agilityio/reverse-sentence#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
