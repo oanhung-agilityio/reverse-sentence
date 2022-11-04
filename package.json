@@ -1,6 +1,6 @@
 {
-  "name": "@npmoanhung/reverse-sentence",
-  "version": "1.1.0",
+  "name": "~oanhung/reverse-sentence",
+  "version": "1.1.1",
   "description": "Reverses a sentence.",
   "main": "index.js",
   "scripts": {
